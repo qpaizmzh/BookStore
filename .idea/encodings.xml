@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/bookStore/dao/AccountDAO.java" charset="GBK" />
+    <file url="file://F:/（5）JavaWEB 案例/day_45_bookstore/src/com/atguigu/bookstore/dao/AccountDAO.java" charset="GBK" />
+    <file url="file://F:/（5）JavaWEB 案例/day_45_bookstore/src/com/atguigu/bookstore/dao/impl/BaseDAO.java" charset="GBK" />
+    <file url="file://F:/（5）JavaWEB 案例/day_45_bookstore/src/com/atguigu/bookstore/db/JDBCUtils.java" charset="GBK" />
+    <file url="file://F:/（5）JavaWEB 案例/day_45_bookstore/src/com/atguigu/bookstore/utils/ReflectionUtils.java" charset="GBK" />
+  </component>
+</project>
